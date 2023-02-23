@@ -1,0 +1,31 @@
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+<table width=80% border="1" align="center">
+ <tr>
+ <td width=15% align=center>
+ <marquee bgcolor="purple">Labudda</marquee>
+ <br><br><br>
+ <b> linki do zadań </b><br>
+ <a href="zad32_lab.html" target="strony">Zadanie 32</a><br>
+ <a href="zad33_lab.html" target="strony">Zadanie 33</a><br>
+ <a href="zad34_lab.html" target="strony">Zadanie 34</a><br>
+ <a href="zad35_lab.html" target="strony">Zadanie 35</a><br>
+ <a href="zad36_lab.html" target="strony">Zadanie 36</a><br>
+ <br>
+ </td>
+ <td align=center><iframe width=500 height=500 name="strony" src="start.html" border="0"></iframe>
+</td>
+<td width=15% align=center><a href="start.html" target="strony"><center>Start</center></a>
+<a href="kod32.html" target="strony">32_kod</a><br>
+<a href="kod33_lab.html" target="strony">33_kod</a><br>
+<a href="kod34_lab.html" target="strony">34_kod</a><br>
+<a href="kod35_lab.html" target="strony">35_kod</a><br>
+<a href="kod36_lab.html" target="strony">36_kod</a><br>
+  </td>
+  </tr>
+</table>
+</body>
+</html>
